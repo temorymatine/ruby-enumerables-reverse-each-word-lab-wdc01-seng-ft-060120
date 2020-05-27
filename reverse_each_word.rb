@@ -7,7 +7,7 @@ new << str
 
  new.each{|n| n.split(" ")}
   
-puts new
+puts new[0]
   
   
 end
