@@ -5,9 +5,9 @@ new = []
 
 new << str
 
-puts new.split(" ")
+ new.split(" ")
   
-
+puts new
   
   
 end
