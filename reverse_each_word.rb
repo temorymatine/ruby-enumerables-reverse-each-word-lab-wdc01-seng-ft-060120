@@ -7,9 +7,9 @@ def reverse_each_word(str)
   
   revd =  a.map{|s| s.reverse}
   
-  new = revd.join
+  new = revd.join(" ")
  
-  
+  puts new
   
   
 end
