@@ -1,7 +1,13 @@
 
 def reverse_each_word(str)
-  .split(" ")}
+  
+  new = []
+  
+  new << str
   
   
+ new[0].split(" ")}
+  
+  puts new
   
 end
