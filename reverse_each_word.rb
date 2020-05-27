@@ -6,7 +6,7 @@ def reverse_each_word(str)
   new << str
   
   
- new[0].split(" ")}
+ new[0].split(" ")
   
   puts new
   
