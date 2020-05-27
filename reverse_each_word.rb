@@ -6,7 +6,7 @@ new = []
 new << str.split("")
 
    
-new.each{|s| s.reverse}
+new.each{|s| puts s.reverse}
   
 
   
