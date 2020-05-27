@@ -7,9 +7,9 @@ def reverse_each_word(str)
 new << str.split(" ")
 
    
-  new2 << new.each{|s| s.split("")}
   
-puts  new2.reverse
+  
+
   
   
 end
