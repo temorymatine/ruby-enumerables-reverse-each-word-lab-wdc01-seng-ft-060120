@@ -9,7 +9,7 @@ def reverse_each_word(str)
   
   new = revd.join(" ")
  
-  puts new
+  new
   
   
 end
