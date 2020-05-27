@@ -5,7 +5,7 @@ new = []
 
 new << str
 
- new.split(" ")
+ new.each{|n| n.split(" ")}
   
 puts new
   
