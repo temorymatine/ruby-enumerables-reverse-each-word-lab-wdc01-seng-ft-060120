@@ -5,7 +5,7 @@ new = []
 
 new << str
 
-
+puts new
   
 
   
