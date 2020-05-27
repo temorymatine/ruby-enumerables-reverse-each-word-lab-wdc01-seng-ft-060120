@@ -3,7 +3,7 @@ def reverse_each_word(str)
   
   new = []
   
-  str.split(' ')
+  a = str.split(' ')
   
   puts str[1]
  
