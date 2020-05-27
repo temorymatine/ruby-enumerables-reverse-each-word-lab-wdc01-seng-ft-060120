@@ -7,7 +7,7 @@ def reverse_each_word(str)
   
   #revd =  a.map{|s| s.reverse}
   
-  a.collect{
+  revd = a.collect{|x| x.reverse}
   
   new = revd.join(" ")
  
