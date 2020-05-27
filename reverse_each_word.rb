@@ -5,7 +5,7 @@ def reverse_each_word(str)
   
   str.split(" ")
   
-  puts str[1]
+  puts str[]
  
   
   
