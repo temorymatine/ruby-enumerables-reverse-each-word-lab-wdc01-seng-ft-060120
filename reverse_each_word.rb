@@ -6,7 +6,7 @@ new = []
 new << str.split("")
 
    
-new.map{|n| n.reverse}
+new.map{|n| puts n.reverse}
   
 
   
