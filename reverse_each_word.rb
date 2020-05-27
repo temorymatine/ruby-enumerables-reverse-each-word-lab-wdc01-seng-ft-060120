@@ -6,7 +6,7 @@ new = []
 new << str.split("")
 
    
-  puts new
+
   
 
   
