@@ -1,13 +1,7 @@
 
 def reverse_each_word(str)
+  .split(" ")}
   
-new = []
-
-new << str
-
- new.each{|n| n.split(" ")}
-  
-puts new[1]
   
   
 end
